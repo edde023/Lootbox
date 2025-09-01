@@ -13,7 +13,7 @@ The sourcecode of this plugin is free on my github D2SIADO
 - Configurable in game
 - Gui to LootBox
 
-## Help and support
+## Help and support !
 
 For help and support join to the **Extreme Development** [Discord](https://development.zyonpvp.us/)
 
